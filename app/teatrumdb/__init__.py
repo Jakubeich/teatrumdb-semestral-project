@@ -1,0 +1,1 @@
+"""TeatrumDB desktop application package."""

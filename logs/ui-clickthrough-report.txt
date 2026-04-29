@@ -1,0 +1,58 @@
+APP: started, connected=True, info=teatrum@localhost:1521/FREEPDB1
+CLICK: Odpojit
+CLICK: Pripojit
+Pripojeni: odpojit/pripojit OK
+CLICK: Obnovit
+Prehled metriky: ['6', '5', '14', '18 290 Kč']
+Prehled - nejblizsi predstaveni: 5 radku
+Prehled - nejvyssi utrata: 6 radku
+CLICK: Obnovit
+CLICK: Pridat
+DIALOG: Pridat navstevnika -> 990101/7777
+CLICK: Upravit
+DIALOG: Upravit navstevnika -> 990101/7777
+CLICK: Smazat
+Navstevnici CRUD OK: 6 -> add/edit/delete
+CLICK: Obnovit
+Predstaveni: 10 radku
+CLICK: Obsazenost
+Predstaveni detail OK: Hamlet
+CLICK: Obnovit
+CLICK: Vytvorit rezervaci
+CLICK: Zrusit rezervaci
+Rezervace OK: vytvorena a zrusena ID 22
+CLICK: Spustit dotaz -> visitors_over_30
+Dotaz 1 visitors_over_30: 5 radku
+CLICK: Spustit dotaz -> productions_by_awarded_director
+Dotaz 2 productions_by_awarded_director: 2 radku
+CLICK: Spustit dotaz -> production_overview
+Dotaz 3 production_overview: 5 radku
+CLICK: Spustit dotaz -> max_rating_visitors
+Dotaz 4 max_rating_visitors: 3 radku
+CLICK: Spustit dotaz -> actors_for_director
+Dotaz 5 actors_for_director: 4 radku
+CLICK: Spustit dotaz -> future_without_reservations
+Dotaz 6 future_without_reservations: 5 radku
+CLICK: Spustit dotaz -> visitor_every_genre
+Dotaz 7 visitor_every_genre: 2 radku
+CLICK: Spustit dotaz -> payments_arc
+Dotaz 8 payments_arc: 18 radku
+CLICK: Spustit dotaz -> actors_phones_languages
+Dotaz 9 actors_phones_languages: 5 radku
+CLICK: Spustit dotaz -> actors_without_musical
+Dotaz 10 actors_without_musical: 3 radku
+CLICK: Spustit dotaz -> top_halls
+Dotaz 11 top_halls: 3 radku
+CLICK: Spustit dotaz -> inscenace_util
+Dotaz 12 inscenace_util: 5 radku
+Dotazy: vsech 12 dotazu spusteno pres UI
+CLICK: Spocitat
+CLICK: Nacist TOP
+Procedury - TOP navstevnici: 5 radku
+CLICK: Generovat
+Procedury OK: trzba=2 250 Kč, generovani=Dokonceno
+CLICK: Obnovit
+CLICK: Smazat
+Navstevnici cascade delete OK: 800101/1234
+INFO dialogs: 5
+UI_CLICKTHROUGH_RESULT=OK
